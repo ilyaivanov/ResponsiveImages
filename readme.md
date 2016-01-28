@@ -2,7 +2,7 @@ You will need to install [ImageMagick](http://www.imagemagick.org/script/index.p
 
 To run samples, hit:
 ```
-git clone http://www.imagemagick.org/script/index.php
+git clone https://github.com/ilyaivanov/ResponsiveImages.git
 npm install gulp -g
 npm install
 gulp
