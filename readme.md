@@ -7,3 +7,5 @@ npm install gulp -g
 npm install
 gulp
 ```
+
+![Build result](http://puu.sh/mMJD1/5e6f669b53.png)
